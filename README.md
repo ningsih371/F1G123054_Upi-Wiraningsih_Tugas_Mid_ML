@@ -90,3 +90,4 @@ Model dapat dibuat ulang melalui notebook yang disediakan.
 
 UPI WIRANINGSIH
 F1G123054
+Kelas C
